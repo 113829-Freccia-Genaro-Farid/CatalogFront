@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class HomeComponent {
 
   registrar = false;
-  modificar=true;
+  modificar = false;
 
 
   mostrarRegistrar(){
